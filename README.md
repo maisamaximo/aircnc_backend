@@ -10,7 +10,7 @@
 Application that helps people connect to companies that are making the rental of physical places and the whole structure so that they can use and work with affordable values.
 </h3>
 
-<h6 align="justify">
+<h6 align="center">
 This project is an application developed in React, React Native and Node.js produced in a course taught by Rocketseat.
 <br>
 Aircnc is a custom clone that aims to apply the knowledge and technologies used in the market.
