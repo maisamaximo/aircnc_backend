@@ -24,7 +24,7 @@ module.exports = {
 
         const spot = await Spot.create({
             user: user_id,
-            thumbnail: filename, 
+            thumbnail: filename.replace(/\s/g,''), 
             company,
             techs: techs.split(',').map(tech => tech.trim()), 
             price
